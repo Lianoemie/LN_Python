@@ -1,0 +1,29 @@
+{
+  "chart": {
+    "title": "Birth rate",
+    "subtitle": "The number of live births occurring during the year, per 1,000 people.",
+    "citation": "UN, World Population Prospects (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/crude-birth-rate?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Birth rate - Sex: all - Age: all - Variant: estimates": {
+      "titleShort": "Birth rate,total",
+      "titleLong": "Birth rate,total - UN WPP",
+      "descriptionShort": "Number of births recorded annually, divided by population in that year. It is based on the civil calendar year, spanning from January 1 to December 31.",
+      "descriptionKey": [],
+      "unit": "births per 1,000 people",
+      "timespan": "1950-2023",
+      "type": "Numeric",
+      "owidVariableId": 950617,
+      "shortName": "birth_rate__sex_all__age_all__variant_estimates",
+      "lastUpdated": "2024-07-12",
+      "citationShort": "UN, World Population Prospects (2024) – processed by Our World in Data",
+      "citationLong": "UN, World Population Prospects (2024) – processed by Our World in Data. “Birth rate,total – UN WPP” [dataset]. United Nations, “World Population Prospects” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/950617.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-11-28"
+}
