@@ -1,4 +1,0 @@
-# LNPandas
-Leistungsnachweis Python 
-
-
