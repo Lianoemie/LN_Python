@@ -8,7 +8,7 @@ Lia Müller, Selina Rüdisüli, Melanie Pomelitto
 
 ### Outline:
 
-Wir befassen uns mit der Veränderung der Geburtenrate zwischen den Jahren 1930 und 2023. Unser Ziel ist es zu untersuchen in welchen Jahren die Geburtenrate extrem hoch oder tief ist und evaluieren die Ursachen dafür.
+Wir befassen uns mit der Veränderung der Geburtenrate zwischen den Jahren 1950 und 2023. Unser Ziel ist es zu untersuchen in welchen Jahren die Geburtenrate extrem hoch oder tief ist und evaluieren die Ursachen dafür.
 
 ### Fragestellung:
 
