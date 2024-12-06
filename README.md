@@ -4,7 +4,7 @@ BMLD Informatik
 ## Veränderungen der Geburtenrate zwischen 1950 und 2023
 
 ### Gruppe:
-Lia Müller, Selina Rüdisüli, Melanie Pomelitto
+Lia Müller, Selina Rüdisüli, Melanie Pomellitto
 
 ### Outline:
 
