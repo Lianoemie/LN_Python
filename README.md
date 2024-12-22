@@ -8,7 +8,7 @@ Lia Müller, Selina Rüdisüli, Melanie Pomellitto
 
 ### Outline:
 
-Wir befassen uns mit der Veränderung der Geburtenrate zwischen den Jahren 1950 und 2023. Unser Ziel ist es zu untersuchen in welchen Jahren die Geburtenrate extrem hoch oder tief ist und evaluieren die Ursachen dafür.
+Wir befassen uns mit der Veränderung der Geburtenrate zwischen den Jahren 1950 und 2023. Die Daten sind von 1950 bis 2023 als kompletter Datensatz vorhanden. Unser Ziel ist es zu untersuchen in welchen Jahren die Geburtenrate extrem hoch oder tief ist und evaluieren die Ursachen dafür. In unserer Arbeit bezeichnen wir die die Länder als "Entity" und die Ländercodes als "Codes". 
 
 ### Fragestellung:
 
